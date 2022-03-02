@@ -3692,7 +3692,6 @@ yahoo.co.jp
 yahoo.co.kr
 yahoo.co.nz
 yahoo.co.uk
-yahoo.com
 yahoo.com.ar
 yahoo.com.au
 yahoo.com.br
